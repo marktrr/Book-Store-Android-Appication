@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<widget id="io.cordova.hellocordova" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+    <name>HM BookStore</name>
+    <description>
+        Final Project for Mobile Application I course - HM BookStore
+    </description>
+    <author email="Htran0276@conestogac.on.ca" href="http://conestogac.on.ca">
+        Hy Minh Tran - 7910276
+    </author>
+    <content src="index.html" />
+    <plugin name="cordova-plugin-whitelist" spec="1" />
+    <access origin="*" />
+    <allow-intent href="http://*/*" />
+    <allow-intent href="https://*/*" />
+    <allow-intent href="tel:*" />
+    <allow-intent href="sms:*" />
+    <allow-intent href="mailto:*" />
+    <allow-intent href="geo:*" />
+    <platform name="android">
+        <allow-intent href="market:*" />
+    </platform>
+    <icon src="icon.png" />
+    <splash src="splash.png" />
+    <plugin name="cordova-plugin-splashscreen" spec="^5.0.2" />
+    <preference name="SplashScreen" value="screen" />
+    <preference name="SplashScreenDelay" value="5000" />
+    <preference name="SplashMaintainAspectRatio" value="true" />
+    <engine name="android" spec="^7.1.4" />
+</widget>
