@@ -1,4 +1,0 @@
-#Sat Apr 13 12:24:04 EDT 2019
-base.0=C\:\\Users\\thm28\\Desktop\\HMBookStore\\platforms\\android\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
-path.0=classes.dex
-renamed.0=classes.dex
