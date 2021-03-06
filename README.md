@@ -7,17 +7,19 @@ This is a book store application.
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. 
 Please clone the project for more details.
 
-### Installing
+### Installation
 
-1. Download the .APK file
+1. Clone Project https://github.com/marktrr/Book-Store-Android-Appication.git
 
-2. Install it to your phone or virtual machine
+2. Install Android Studio App
 
-3. Enjoy!
+3. Install .apk file into the virtual machine
+
+4. Enjoy!
 
 ## Authors
 
-* **Hy Minh Tran (Mark)** - *HM* - [Marktrr](https://github.com/marktrr/)
+* **Hy Minh Tran (Mark)**
 
 ## License
 
